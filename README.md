@@ -1,2 +1,2 @@
-# intro
-intro to web development
+# Class Exercices
+What we learn at FrauenLoop
